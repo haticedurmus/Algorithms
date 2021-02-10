@@ -4,12 +4,12 @@ and print the increasing sub-sequences one under the other. There is no same num
 Test Cases:
 Input:1 3 7 2 1 5 -1
 Output:1 3 7
-       2 1
-       5
+2 1
+5
 
 Input:9 7 5 17 13 12 19 22 20 18 17 21 24 -1
 Output:9 7 5
-       17 13 12 
-       19 22
-       20 18 17 
-       21 24
+17 13 12 
+19 22
+20 18 17
+ 21 24
